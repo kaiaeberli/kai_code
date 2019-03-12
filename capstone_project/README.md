@@ -1,4 +1,4 @@
-# kai_code
+# capstone project - fx spot prediction
 
 Unusual libraries used are:
 - Keras, subprocess, sklearn, IPython, pypyodbc and seaborn
